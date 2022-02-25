@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Short vindication of marine regiments in answer to a pamphlet entituled A letter to a member of Parliament concerning the four marine regiments.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60114</idno>
+            <idno type="STC">Wing S3643</idno>
+            <idno type="STC">ESTC R26918</idno>
+            <idno type="EEBO-CITATION">09581314</idno>
+            <idno type="OCLC">ocm 09581314</idno>
+            <idno type="VID">43711</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60114)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43711)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1340:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Short vindication of marine regiments in answer to a pamphlet entituled A letter to a member of Parliament concerning the four marine regiments.</title>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Letter to a member of Parliament concerning the four regiments commonly called Mariners.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43711:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <p>A Short Vindication OF Marine Regiments, In Anſwer to a Pamphlet, Entituled, <hi>A Letter to a Member of Par<g ref="char:EOLhyphen"/>liament, concerning the Four Marine Regiments.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Baldwin,</hi> near the <hi>Ox<g ref="char:EOLhyphen"/>ford-Arms</hi> Inn in <hi>Warwick-lane.</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="vindication">
+            <pb n="3" facs="tcp:43711:2"/>
+            <!-- PDF PAGE 38 -->
+            <head>A Short Vindication OF <hi>Marine Regiments.</hi>
+            </head>
+            <p>SInce Mankind are ſubjected to the Licentious Aſ<g ref="char:EOLhyphen"/>perſions of every Author who has an opinion of his railing, the only misfortune a man ſhould reſent as particular is when he falls into the worſt hands; That ſuch is the fate of the Mariners is evident from the ſcurrility, inconſiſtency, and falſity, ſo conſpicuous in every page of his Book.</p>
+            <p>The Gentleman undertakes, with that becoming aſ<g ref="char:EOLhyphen"/>ſurance which ſhines thro the whole Piece, to prove theſe Regiments an uſeleſs charge to the People, a nu<g ref="char:EOLhyphen"/>ſance to the Navy, and dangerous to the Kingdoms Liberties.</p>
+            <p>This Indictment bears indeed a terrible Front, and were it not for this ſmall advantage on our ſide, that every ſort of proof from Reaſon and matter of Fact is wanting, we were in a deſperate condition.</p>
+            <pb n="4" facs="tcp:43711:3"/>
+            <!-- PDF PAGE 39 -->
+            <p>Our Author without any heſitation aſſerts, that the Officers ſeldom do any duty; that they and their men are ſupernumerary, and uſeleſs to the Ships Company, and a very heavy charge: Whereas it is plain, that the Lords of the Admiralty, upon fitting out a Squadron of Ships, always direct their Orders to the Collonels of the Marine Regiments for a detachment of their men, with whom there conſtantly embarks a proportionable com<g ref="char:EOLhyphen"/>plement of Officers, who are diſpos'd of in numbers according to the rate of the Ship, and are always con<g ref="char:EOLhyphen"/>ſidered as a part of their Ships Complement; and as ſuch they are leſs charge than ſo many Seamen, the able Seaman's monthly Pay being Four, and twenty ſhillings, and the Marines but Eighteen. And for be<g ref="char:EOLhyphen"/>ing equally uſeful at leaſt, I have often heard it own'd by the Flag-Officers, as well as private Captains, they had rather have one fourth of their men Marines, than be wholly mann'd with Sea-men, for that they always found them more obedient to Command in time of Action, whether quartered at the Great Guns or Small Shot, or put Centrys over the Scuttels; whereas the Seamen at ſuch times are not ſo Governable, being ac<g ref="char:EOLhyphen"/>cuſtomed to greater Liberties and Diſorders, from their frequent diſcharges and variety of Service, when the Marines are kept to a Conſtant and Severer diſcipline.</p>
+            <p>But here, to daſh all our hopes at once, he comes with Antipathy and Oeconomy, and is very merry with the different diſpoſitions of the Seamen and the Land<g ref="char:EOLhyphen"/>men, and aſſerts, 'tis impoſſible to be practis'd with ſafe<g ref="char:EOLhyphen"/>ty, if the Nation ſhould conſent to it: One while he makes us Marines, and then again we are to be Land Soldiers; and indeed ſuch is his ingenuity, we are to be any thing his different purpoſes would have us; The
+<pb n="5" facs="tcp:43711:3"/>
+               <!-- PDF PAGE 39 -->only inſtnnce we are allow'd to know is, of a diſſenti<g ref="char:EOLhyphen"/>on in Sir <hi>Francis Wheeler</hi>'s Expedition in the <hi>Weſt Indies;</hi> but that happen'd from a Regiment of Foot taken on board in the <hi>Weſt Indies,</hi> nor can it, even with the art of our Author's inferences, fall on the Marines, the Sea Officers having an abſolute Command over them, with power to confine upon refuſing to obey.</p>
+            <p>The <hi>Streights</hi> Squadron, Commanded by my Lord <hi>Orford,</hi> and the Land Regiments upon that expedition, are happy inſtances of a better agreement; and 'tis ra<g ref="char:EOLhyphen"/>ther to be hoped our continuing among them may put an entire end to that unnatural diſſention, he draws ſuch dangerous conſequences from.</p>
+            <p>He urges in additional charge againſt us, we cannot be a Nurſery for Seamen; Nay, that there is no occa<g ref="char:EOLhyphen"/>ſion for any Nurſery at all in a time of Peace and Se<g ref="char:EOLhyphen"/>curity. But I hope his Opinion wanting every ſupport but his own aſſurance, will not prevail againſt plain Matter of Fact, ſubject to other than notional demon<g ref="char:EOLhyphen"/>ſtration; For as the Kings Ships in time of War, by in<g ref="char:EOLhyphen"/>diſpenſible neceſſity did often delay and prejudice the Trading part of the Kingdom; in times of Peace, the neceſſity will prevail on t'other ſide; and 'tis plain, that long and dangerous Voyages, by Diſtempers inci<g ref="char:EOLhyphen"/>dent from ſeveral climates, and the infinite accidents ſuch a courſe of Life expoſes men to, will continually leſſen the number, and ſoon awaken us with that ne<g ref="char:EOLhyphen"/>ceſſity we look upon at ſuch a diſtance: And that the Marines are a proper ſupply is undeniable; Had our Author been a little better acquainted with that Com<g ref="char:EOLhyphen"/>miſſioner of the Navy, he makes ſuch familiar mention of, the Navy Books would have made appear to them both, that even during the oppreſſions and diſappoint<g ref="char:EOLhyphen"/>ments
+<pb n="6" facs="tcp:43711:4"/>
+               <!-- PDF PAGE 40 -->theſe Regiments labour'd under, great numbers of Scamen have been diſcharged from them as Able for the ſervice of the Navy: And had they been encou<g ref="char:EOLhyphen"/>rag'd and ſupported in their firſt Inſtitution, I am aſ<g ref="char:EOLhyphen"/>ſured a thouſand men might have been Annually drawn from them ſo qualified.</p>
+            <p>Nay, theſe very Marines our Author looks upon as ſuch Cyphers, were found very ready, and very neceſ<g ref="char:EOLhyphen"/>ſary, when the Invaſion was threatned from <hi>Calais;</hi> when without them, the difficulties had been inſupera<g ref="char:EOLhyphen"/>ble upon the Officers employ'd in the ſpeedy manning of the Fleet.</p>
+            <p>He charges us again, with a modeſty proper to him, that Seamen are inveigled by us to become Landmen, rather than our ſelves made uſeful at Sea; that we re<g ref="char:EOLhyphen"/>ceive Forty Shillings <hi>per</hi> man, to Recruit and Liſt preſt men in our Companies.</p>
+            <p>The truth of this he makes out with his uſual plain<g ref="char:EOLhyphen"/>neſs, in that one half of the Marines are conſtantly at Sea themſelves, and the reſt always ready to relieve them, or be put on board at an hours warning on any other ex<g ref="char:EOLhyphen"/>pedition, and always account the Sea Service their proper place of Action and Duty. The Seamen have Twenty Four Shillings <hi>per</hi> month, and the Marines Eighteen Shillings, which muſt incline them to chooſe the Ma<g ref="char:EOLhyphen"/>rine Service in point of Intereſt, and with their natural inclination to Land Men and Land Service, hinted by our Author, Page the 5th, make the Task very eaſy for Ma<g ref="char:EOLhyphen"/>rine Officers to recruit their Companies with preſt Sea<g ref="char:EOLhyphen"/>men; who muſt be preſt firſt by the Sea Officers, and actually in their Cuſtody, and they doubtleſs will be ready (by reaſon of the Antipathy before mention'd) to oblige the Marine Officers with the men preſt at their
+<pb n="7" facs="tcp:43711:4"/>
+               <!-- PDF PAGE 40 -->own trouble and expence; for no Marine Officer has more power to preſs than any Land Officer whatſoe<g ref="char:EOLhyphen"/>ver.</p>
+            <p>I find, as buſy as this Gentleman makes himſelf, with that determining Port, ſtating his own Objections, then anſwering them as roundly; and ſetting his reaſons be<g ref="char:EOLhyphen"/>yond the poſſibility of a reply, he is forced very often to diſcover his humanity, I mean his fallibility, and not his good nature, of that we muſt acquit him, the di<g ref="char:EOLhyphen"/>ſtempers of the State will not ſuffer by the lenity of our Reformer.</p>
+            <p>Here, if the ſubject were not too ſerious, I ſhould in<g ref="char:EOLhyphen"/>deed be inclin'd to be merry; The Sailors, he ſays, are always depended upon better at their Small Arms, to defend the Decks, and annoy the Enemy, becauſe in their Voyages they are accuſtom'd to ſhoot Wild Fowl; and would infer, that to defend the Decks, and make regular Fires, to load and diſcharge with quickneſs, and order, preſerving themſelves carefully to advance and retire with that regard to command, as in Companies well diſciplined, may be learnt beſt by ſhooting of Larks; This is ſo very Ridiculous that I am in hopes the Gentleman will honour us with the firſt Fruits of his modeſty, and bluſh for it.</p>
+            <p>In Confidence of which I will venture to tell him, <hi>I</hi> have known, when the Sea Commanders have Com<g ref="char:EOLhyphen"/>plain'd, they could never bring one in Ten of the Sai<g ref="char:EOLhyphen"/>lors ſo much as to endeavour at the Exerciſe of the ſmall Arms, which makes the Neceſſity of the Mariners almoſt irreſiſtable.</p>
+            <p>I believe 'tis poſſible to prove one inſtance, that theſe Mariners have been Inſtrumental in preventing Muti<g ref="char:EOLhyphen"/>nies attempted at Sea, and very many reaſons why they
+<pb n="8" facs="tcp:43711:5"/>
+               <!-- PDF PAGE 41 -->may be uſeful that way, conſtant diſcipline leaving deeper impreſſions of Duty, and the higheſt regard to good Officers, and I am told that is the reaſon their Arms are always lodged in the aftermoſt part of the Ship.</p>
+            <p>As for his Inſtance upon thoſe Attacks at <hi>Cork</hi> and <hi>Kingſale,</hi> theſe very uſeleſs Mariners (unluckily to this Gentlemans purpoſe) had the Honor of a very conſi<g ref="char:EOLhyphen"/>derable part in the Succeſs, ſo that we muſt conclude he was at too great a diſtance to be poſitive.</p>
+            <p>There are now more than one Thouſand of the Ma<g ref="char:EOLhyphen"/>rines abroad, and I believe the reſt may appeal to any of the Admirals with whom they have ſerved, and find a different Character from our Authors, who is ſo pal<g ref="char:EOLhyphen"/>pably unacquainted with the men, tho ſo very angry with the Core.</p>
+            <p>That difficulty he raiſes of interfering with the Na<g ref="char:EOLhyphen"/>vy rules vaniſhes, when we ſhall appear uſeful for the Service, or elſe the Commiſſioner he is acquainted with, promiſes but poorly for the Capacities of the Board.</p>
+            <p>That the Marine Officers, debauch the principles of the Sea Officers, introducing Arts of falſe Muſtering, unknown to the priſtine Innocence of the Seamen, is a ſcandal ſo void of proof, that it is not yet known they were ever ſo much as accuſed; which requires all the Countenance of our Author to defend, becauſe the Ma<g ref="char:EOLhyphen"/>rines on board, are always under the Muſter and Check of the Navy.</p>
+            <p>Where they are ſaid to be uſeful in the King's Yards, he tells us he will give no Anſwer, after he has ſaid all he could againſt it; which is a condeſcention we muſt always own, and come to our old way of anſwering with Matter of Fact of the moſt evident kind.</p>
+            <pb n="9" facs="tcp:43711:5"/>
+            <!-- PDF PAGE 41 -->
+            <p>In the year 1694, great part of the Marine Regi<g ref="char:EOLhyphen"/>ments were on ſhore, and were Quartered according to the Eſtabliſhment near the Dock Yards, and there Em<g ref="char:EOLhyphen"/>ploy'd with the Encouragement of Sixpence <hi>per</hi> day, the common Labourers receiving conſtantly One Shilling and Two pence, and the Marines were acknowledged by the Officers in the Yard, to diſpatch more Work for their number, than a third more of the Common La<g ref="char:EOLhyphen"/>bourers, being generally young and able for the Ser<g ref="char:EOLhyphen"/>vice; and in ſix months time many of them arrived to perform the ſame work the Artificers were allow'd two Shillings <hi>per</hi> day for.</p>
+            <p>As for the ſecurity of the Yards that he diſpiſes, and ſets up a Watchman and a Bell, and the whole's con<g ref="char:EOLhyphen"/>futed: But the Marines, ſo quartered as before, may take off the charge of one Shilling and Sixpence a night <hi>per</hi> man paid to the Watch, and do the Purpoſe better; For the Soldier does it as a piece of his Duty, and is diligent in hopes of favour and perfer<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Our Author has taken great care to be particular in the Marines Diet and Lodging, and other accommodations; I hope, having as many Limbs as other men, the Ad<g ref="char:EOLhyphen"/>vantage of that will be found in their labour.</p>
+            <p>When Ships are laid up, 'tis undeniable but the Ma<g ref="char:EOLhyphen"/>rines muſt be an eaſier charge than Seamen, to do the duty on board, and in caſe of any attack, be unque<g ref="char:EOLhyphen"/>ſtionably better able to defend, than a Boatſwain and a few Seamen unarmed, and without diſcipline.</p>
+            <pb n="10" facs="tcp:43711:6"/>
+            <!-- PDF PAGE 42 -->
+            <p>Such a Force, tho below the Ridicule of our Author, might poſſibly have prevented the burning of the Ships at <hi>Chattam,</hi> and better defended the yards; for I have heard it affirm'd upon the place, that at that time, the Seamen and Labourers, before one of the Enemy Landed, inſtead of defending their Charge, plunder'd and ſtole what they could, and made the beſt of their way: To what purpoſe the ringing of the Bell might have been I know not, But of this I am aſſured, no Souldier dare conceal himſelf when the Drum beats to Arms.</p>
+            <p>Where any neceſſity ariſes of ſpeedy rigging of Ships ordered out, The Marines Quarter'd near the Docks will be Qualified for that Duty, prevent any delay while the means are uſed to get the Seamen together, and in the year (1695) for want of Seamen at hand, many of the great Ships at <hi>Chattam</hi> were fitted out, and carried down the River by Marines.</p>
+            <p>The Firſt Marine Regiments are not diſpers'd as he falſly affirms, but one of the preſent four conſiſts of the old Officers and choſen men, and the reſt were diſtri<g ref="char:EOLhyphen"/>buted into the other three; ſo that the diſpute is not to make a new Eſtabliſhment, but upon theſe undenia<g ref="char:EOLhyphen"/>ble uſes to confirm an old one.</p>
+            <p>How it may anſwer this Gentlemans purpoſe, or his Character to lay the ſtricteſt aſſurance upon things ut<g ref="char:EOLhyphen"/>terly falſe, I can't tell; But this news from <hi>Holland</hi> of their laying aſide Marine Regiments wants confirma<g ref="char:EOLhyphen"/>tion.</p>
+            <p>When this Author had rank'd us under the Protecti<g ref="char:EOLhyphen"/>on of the Admiralty, I was in hopes to have ſeen ſome of that regard due to a ſuperiour Board; But he is now in his Reforming Capacity, and muſt be allowed any Latitude.</p>
+            <pb n="11" facs="tcp:43711:6"/>
+            <!-- PDF PAGE 42 -->
+            <p>If continuing ſuch a neceſſary part of our Naval Force be deſtructive of the Kingdoms Liberties, our Author has found out a new way of preſerving them unknown to our Anceſtors, and I hope he will be con<g ref="char:EOLhyphen"/>vinced we are not to be deceived by appearances, how ſecure ſoever he may be of his own diſguiſe.</p>
+            <p>His Malice is every where apparent as his Vanity, which makes his Opinion of leſs Force againſt us, if there were any thing in his Arguments, and I believe if we were acquainted with his honeſty we might lay aſide all our Fears.</p>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
